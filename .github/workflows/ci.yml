@@ -6,6 +6,7 @@ on:
     branches:
       - master
 
+
 jobs: # 工作流
   build: # 自定义名称
     runs-on: ubuntu-18.04 #运行在虚拟机环境ubuntu-latest
