@@ -39,6 +39,6 @@ jobs: # 工作流
           git config user.email "$GIT_EMAIL"
           git add -A
           git commit -m "GitHub Actions Auto Builder at $(date +'%Y-%m-%d %H:%M:%S')"
-          git push --force --quiet https://cQkUHMXSwL:$CODING_TOKEN@$CODING_REPO master
+          git push --force --quiet https://iENwpLnsTb:$CODING_TOKEN@$CODING_REPO master
           cd -
           rm -rf docs/.vuepress/dist
