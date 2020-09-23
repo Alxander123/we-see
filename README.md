@@ -6,8 +6,6 @@ Open terminal and run:
 git clone https://github.com/volantis-x/demo.git && cd demo && npm i && hexo s
 
 
-
-
 ```
 
 
